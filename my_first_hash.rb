@@ -1,4 +1,4 @@
-def my_hash()
+def my_hash(name, ethnicity)
   my_hash{ "my_name" => "Robinson", "my_ethnicity" => "Latino"}
 end
 
