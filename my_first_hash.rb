@@ -1,10 +1,10 @@
-def my_hash()
+def my_hash(student)
   my_hash = { "my_name" => "Robinson", "my_ethnicity" => "Latino"}
 end
 
 
 def shipping_manifest
-  the_manifest = { "whale bone corset" => 5, "porcelain_vases" => 2, "oil paintings" => 3}
+  the_manifest = {"whale bone corset" => 5, "porcelain_vases" => 2, "oil paintings" => 3}
 end
   
   # set a variable called `the_manifest`, equal to a hash
