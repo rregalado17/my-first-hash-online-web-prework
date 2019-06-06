@@ -12,7 +12,6 @@ end
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
 
-end
 
 def retrieval
   shipping_manifest = {
