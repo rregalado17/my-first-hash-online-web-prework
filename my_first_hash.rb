@@ -1,5 +1,5 @@
 def my_hash
-  hash{ "my_name" => "Robinson", "my_ethnicity" => "Latino"
+  hash{ "my_name" => "Robinson", "my_ethnicity" => "Latino"}
 
   
 end
