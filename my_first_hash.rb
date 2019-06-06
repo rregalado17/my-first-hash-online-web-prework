@@ -1,7 +1,5 @@
 def my_hash()
   your_hash{ "my_name" => "Robinson", "my_ethnicity" => "Latino"}
-
-  
 end
 
 
